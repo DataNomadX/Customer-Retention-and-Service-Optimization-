@@ -6,7 +6,7 @@ The primary objective of this project is to analyze customer data to identify pa
 
 # Key Points of Analysis:
 
-Customer Churn Analysis:
+### Customer Churn Analysis:
 
 Identify customers who have churned (left the service).
 Analyze the churn rate over specific periods to understand trends.
